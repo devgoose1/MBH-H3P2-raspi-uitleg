@@ -12,9 +12,9 @@ Voordat je kan beginnen moet je een paar dingen klaarzetten. Je kan de Raspberry
 - Een muis
 
 **2. Alles verbinden**
-1. Stop de lader in een stopcontact en in de raspberry pi
-2. Verbind de monitor aan de raspberry pi
-3. Verbind het toetsenbord en de muis aan de raspberry pi door ze in de USB poorten te stoppen
+1. Stop de lader in een stopcontact en in de Raspberry Pi
+2. Verbind de monitor aan de Raspberry Pi
+3. Verbind het toetsenbord en de muis aan de Raspberry Pi door ze in de USB poorten te stoppen
 
 **3. Inloggen**
 Je bent nu klaar om te beginnen! Als het goed is heb je toen de de lader en monitor verbond op de monitor wat code automatisch zien draaien. Dit start het systeem op.
@@ -22,7 +22,7 @@ Je bent nu klaar om te beginnen! Als het goed is heb je toen de de lader en moni
 Als het goed is, zie je nu een scherm om in te loggen. Dit is een wit menu waar je `username: leerling` is. Je wachtwoord staat op je Raspberry Pi. Log in en laat de systemen opstarten.
 
 # De raspberry pi  gebruiken
-Lekker bezig!  Je bent nu ingelogd en ziet een standaard startscherm. Iedere raspberry pi heeft als het goed is standaard een *browser en console* erbij gekregen. Ook is het handig om even te checken of je wifi hebt. Dit doe je door rechtsboven in je scherm te kijken. Als je wifi hebt, zie je een blauw wifi icoontje. Als je dat niet hebt, zie je een witte monitor met een rode X erbij. Als dat zo is, ga dan even naar een docent. Die kan je verder helpen.
+Lekker bezig!  Je bent nu ingelogd en ziet een standaard startscherm. Iedere Raspberry Pi heeft als het goed is standaard een *browser en console* erbij gekregen. Ook is het handig om even te checken of je wifi hebt. Dit doe je door rechtsboven in je scherm te kijken. Als je wifi hebt, zie je een blauw wifi icoontje. Als je dat niet hebt, zie je een witte monitor met een rode X erbij. Als dat zo is, ga dan even naar een docent. Die kan je verder helpen.
 
 **Eerste dingen om te doen**
 1. Ga naar de *console*. Dit kan je doen door `ctrl + alt + t` te klikken. Dat opent de console.
@@ -34,7 +34,7 @@ Lekker bezig!  Je bent nu ingelogd en ziet een standaard startscherm. Iedere ras
 - `cd ..`: Ga 1 map terug. Dus als je in `mapnaam/mapnaam2` zit, ga je nu naar `mapnaam`
 - `cd ../..`: Ga 2 mappen terug (meer ../ doet meer mappen terug)
 - `mkdir <mapnaam>`: Maakt een nieuwe map aan
-- `nano <bestandnaam`: Gebruik dit om in een bestand tekst en code te schrijven
+- `nano <bestandnaam>`: Gebruik dit om in een bestand tekst en code te schrijven
 
 # Mogelijkheden van de Raspberry Pi
 Heel simpel gezegd: Bijna oneindig! Je kan er superveel mee! Sensoren, lampjes, knoppen, software, etc. Het is eigenlijk een Arduino met meer mogelijkheden.
