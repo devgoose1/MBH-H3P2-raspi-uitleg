@@ -34,6 +34,7 @@ Lekker bezig!  Je bent nu ingelogd en ziet een standaard startscherm. Iedere ras
 - `cd ..`: Ga 1 map terug. Dus als je in `mapnaam/mapnaam2` zit, ga je nu naar `mapnaam`
 - `cd ../..`: Ga 2 mappen terug (meer ../ doet meer mappen terug)
 - `mkdir <mapnaam>`: Maakt een nieuwe map aan
+- `nano <bestandnaam`: Gebruik dit om in een bestand tekst en code te schrijven
 
 # Mogelijkheden van de Raspberry Pi
 Heel simpel gezegd: Bijna oneindig! Je kan er superveel mee! Sensoren, lampjes, knoppen, software, etc. Het is eigenlijk een Arduino met meer mogelijkheden.
